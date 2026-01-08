@@ -1,5 +1,4 @@
 # 🖥️ Projetos
-**Time de desenvolvimento de softwares independente.**
 
 | Nome do Projeto | Cliente | Descrição | Repositório |
 | :---: | :---: | :---: | :---: |
