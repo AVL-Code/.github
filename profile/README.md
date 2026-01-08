@@ -1,3 +1,5 @@
+<img src="AVL_CODE_BANNER.png" />
+
 # 🖥️ Projetos
 
 | Nome do Projeto | Cliente | Descrição | Repositório |
