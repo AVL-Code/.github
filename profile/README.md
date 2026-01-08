@@ -1,12 +1,18 @@
-<img src="AVL_CODE_BANNER.png" />
+# <p> Equipe AVL Code <img src="AVLCode_LogoAzul_NoBG.png" width="50"/> </p>
 
-# 🖥️ Projetos
+<p align="center">
+  <img src="AVL_CODE_BANNER.png"/>
+</p>
+
+**Equipe de desenvolvimento independente.**
+
+## 🖥️ Projetos
 
 | Nome do Projeto | Cliente | Descrição | Repositório |
-| :---: | :---: | :---: | :---: |
-| SIIBS | [Instituto Brantz Social](https://institutobrantz.org.br/) | Sistema web para controle de matrícula de alunos em cursos que englobe o cálculo da frequência dos alunos, relatórios mensais das aulas de professores, listas de frequência, listas de espera e dashboards de informações importantes. | [SIIBS](https://github.com/AVL-Code/SIIBS)
+| :-------------------: | :------------------: | :----------------------------------------------------------: | :------------------: |
+| SIIBS | [Instituto Brantz Social](https://institutobrantz.org.br/) | Sistema web para controle de matrícula de alunos em cursos. | [SIIBS](https://github.com/AVL-Code/SIIBS)
 
-# 👥 Equipe e Cargos nos Projetos
+## 👥 Integrantes e Cargos nos Projetos
 
 | Foto | Nome | Redes Sociais | SIIBS |
 | :---: | :---: | :---: | :---: |
