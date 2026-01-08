@@ -10,7 +10,7 @@
 
 | Nome do Projeto | Cliente | Descrição | Repositório |
 | :-------------------: | :------------------: | :----------------------------------------------------------: | :------------------: |
-| SIIBS | [Instituto Brantz Social](https://institutobrantz.org.br/) | Sistema web para controle de matrícula de alunos em cursos. | [SIIBS](https://github.com/AVL-Code/SIIBS)
+| SIIBS | [Instituto Brantz](https://institutobrantz.org.br/) | Sistema web para controle de matrícula de alunos em cursos. | [SIIBS](https://github.com/AVL-Code/SIIBS)
 
 ## 👥 Integrantes e Cargos nos Projetos
 
